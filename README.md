@@ -1,16 +1,29 @@
 ### Hi there 👋 I'm Leonardo!
 
-<!--
-**leomajado/leomajado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### This is my stack 
 
-Here are some ideas to get you started:
+<div align="center">
+    <div style="float: left" class="pr-20">
+        <img src="https://img.icons8.com/officel/96/000000/php-logo.png" alt="PHP" />
+        <p>Php</p>
+    </div>
+    <div></div>
+    <div style="float: left;" class="pr-20">
+        <img id="laravel" src="https://img.icons8.com/fluency/96/000000/laravel.png" alt="Laravel" />
+        <p>Laravel Framework</p>
+    </div>
+    <div style="float: left;" class="pr-20">
+        <img src="https://img.icons8.com/fluency/96/000000/mysql-logo.png" alt="MySQL" />
+        <p>MySQL</p>
+    </div>
+    <div style="float: left;" class="pr-20">
+        <img src="https://img.icons8.com/color/96/000000/javascript.png" alt="JavaScript" />
+        <p>JavaScript</p>
+    </div>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<style>
+    .pr-20 {
+        padding-right: 20px;
+    }
+</style>
