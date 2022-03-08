@@ -13,7 +13,7 @@
         <img src="https://img.icons8.com/ios/50/000000/maven-ios.png"/>
     </th>
     <th>    
-        <img src="https://img.icons8.com/officel/96/000000/php-logo.png" />
+        <img src="https://img.icons8.com/offices/96/000000/php-logo.png"/>
     </th>
     <th>
         <img src="https://img.icons8.com/fluency/96/000000/laravel.png" />
@@ -38,7 +38,7 @@
             Php
         </td>
         <td align="center">
-            Laravel Framework
+            Laravel
         </td>
          <td align="center">
             MySQL
@@ -59,6 +59,9 @@
         <img src="https://img.icons8.com/color/96/000000/symfony.png"/>
     </th>
     <th align="center">
+        <img src="https://img.icons8.com/color/96/000000/nodejs.png"/>
+    </th>
+    <th align="center">
         <img src="https://img.icons8.com/color/96/000000/vue-js.png"/>
     </th>
     <th align="center">
@@ -70,6 +73,9 @@
     <tr>
         <td align="center">
             Symfony
+        </td>
+        <td align="center">
+            Node.js
         </td>
         <td align="center">
             Vue.js
