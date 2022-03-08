@@ -6,6 +6,13 @@
 
 <table>
     <th align="center">
+        <img src="https://img.icons8.com/color/96/000000/ubuntu--v1.png"/>
+    </th>
+    <th align="center">
+        <img src="https://img.icons8.com/color/48/000000/nginx.png"/>
+        <img src="https://img.icons8.com/ios/50/000000/maven-ios.png"/>
+    </th>
+    <th>    
         <img src="https://img.icons8.com/officel/96/000000/php-logo.png" />
     </th>
     <th>
@@ -22,7 +29,13 @@
     </th>
     <tr>
         <td align="center">
-            php
+            Ubuntu Linux
+        </td>
+        <td align="center">
+            Nginx | Apache
+        </td>
+        <td align="center">
+            Php
         </td>
         <td align="center">
             Laravel Framework
