@@ -70,6 +70,9 @@
     <th align="center">
         <img src="https://img.icons8.com/color/96/000000/mongodb.png"/>
     </th>
+    <th align="center">
+        <img src="https://reactnative.dev/img/header_logo.svg"/>
+    </th>
     <tr>
         <td align="center">
             Symfony
@@ -85,6 +88,9 @@
         </td>
         <td align="center">
             MongoDB
+        </td>
+        <td align="center">
+            React Native
         </td>
     </tr>
 </table>
