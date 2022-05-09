@@ -56,22 +56,22 @@
 
 <table>
     <th align="center">
-        <img src="https://img.icons8.com/color/96/000000/symfony.png"/>
+        <img src="./assets/images/symfony.png"/>
     </th>
     <th align="center">
-        <img src="https://img.icons8.com/color/96/000000/nodejs.png"/>
+        <img src="./assets/images/nodejs.png"/>
     </th>
     <th align="center">
-        <img src="https://img.icons8.com/color/96/000000/vue-js.png"/>
+        <img src="./assets/images/vue-js.png"/>
     </th>
     <th align="center">
-        <img src="https://img.icons8.com/color/96/000000/graphql.png" />
+        <img src="./assets/images/graphql.png" />
     </th>
     <th align="center">
-        <img src="https://img.icons8.com/color/96/000000/mongodb.png"/>
+        <img src="./assets/images/mongodb.png"/>
     </th>
     <th align="center">
-        <img src="https://reactnative.dev/img/header_logo.svg"/>
+        <img src="./assets/images/header_logo.svg"/>
     </th>
     <tr>
         <td align="center">
