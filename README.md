@@ -6,26 +6,26 @@
 
 <table>
     <th align="center">
-        <img src="https://img.icons8.com/color/96/000000/ubuntu--v1.png"/>
+        <img src="./assets/images/ubuntu--v1.png"/>
     </th>
     <th align="center">
-        <img src="https://img.icons8.com/color/48/000000/nginx.png"/>
-        <img src="https://img.icons8.com/ios/50/000000/maven-ios.png"/>
+        <img src="./assets/images/nginx.png"/>
+        <img src="./assets/images/maven-ios.png"/>
     </th>
     <th>    
-        <img src="https://img.icons8.com/offices/96/000000/php-logo.png"/>
+        <img src="./assets/images/php-logo.png"/>
     </th>
     <th>
-        <img src="https://img.icons8.com/fluency/96/000000/laravel.png" />
+        <img src="./assets/images/laravel.png" />
     </th>
     <th>
-        <img src="https://img.icons8.com/fluency/96/000000/mysql-logo.png" />
+        <img src="./assets/images/mysql-logo.png" />
     </th>
     <th>
-        <img src="https://img.icons8.com/color/96/000000/javascript.png" />
+        <img src="./assets/images/javascript.png" />
     </th>
     <th>
-        <img src="https://img.icons8.com/fluency/96/000000/docker.png" />
+        <img src="./assets/images/docker.png" />
     </th>
     <tr>
         <td align="center">
